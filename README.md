@@ -19,13 +19,13 @@ The autonomous driving dataset from Pakistan is a treasure trove of diverse and 
 
 **Everything you need:** The dataset we provide encompasses a comprehensive set of features to cater to a wide range of research and development needs within the field of autonomous driving. It's designed to be an all-inclusive resource, offering critical components necessary for the development and testing of autonomous driving algorithms. Here's an overview of what you can find within this dataset:
 
-### 3D Object Bounding Boxes
++ 3D Object Bounding Boxes
 Our dataset includes detailed annotations of 3D object bounding boxes. This information is crucial for object detection and tracking in autonomous driving scenarios. Researchers and developers can use these annotations to train and evaluate object detection algorithms, ensuring the accurate perception of objects in the environment.
 
-### Lane Lines (Segmentation + XY Coordinates)
++ Lane Lines (Segmentation + XY Coordinates)
 Accurate lane detection is vital for autonomous vehicles to navigate safely on roads. In our dataset, you'll find lane line annotations that include both segmentation masks and XY coordinates. This allows for the precise identification and localization of lane boundaries, aiding in the development of lane-keeping and path planning algorithms.
 
-### Segmentation (Vehicle, Pedestrian, Road)
++ Segmentation (Vehicle, Pedestrian, Road)
 Semantic segmentation is a fundamental task for autonomous vehicles to understand their surroundings. Our dataset provides high-quality segmentation masks for various classes, including vehicles, pedestrians, and road surfaces. This segmentation information aids in object recognition, obstacle avoidance, and road scene understanding, essential for the safe operation of autonomous vehicles.
 
 By offering all these elements within a single dataset, we aim to simplify and streamline the development and testing of autonomous driving systems. Whether you're working on object detection, lane following, or semantic segmentation, our dataset provides the diverse and comprehensive data you need to drive innovation in the field of autonomous mobility.
