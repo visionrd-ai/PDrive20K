@@ -7,13 +7,13 @@ Welcome to Pakistan's inaugural publicly available autonomous driving dataset, f
 
 <div align="center">
   <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/Screenshot%20from%202023-10-05%2013-12-24.png?raw=true" alt="test1">
+  <p align="center"><em>A scenic view of Pakistan Road</em></p>
 </div>
-<figcaption align="center">A scenic view of Pakistan Road</figcaption>
 
 <div align="center">
   <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/BeFunky-collage.jpg?raw=true" alt="test2">
+  <p align="center"><em>Diversity in PDrive20k Data</em></p>
 </div>
-<figcaption align="center">Diversity in PDrive20k Data</figcaption>
 
 The autonomous driving dataset from Pakistan is a treasure trove of diverse and unique data, offering a rich tapestry of scenes and conditions that reflect the intricacies of Pakistan's roadways. From the bustling streets of major cities to the serene landscapes of rural areas, this dataset encapsulates the essence of Pakistan's road environments. Here's a glimpse into the remarkable diversity it encompasses:
 
