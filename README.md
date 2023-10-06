@@ -9,3 +9,8 @@ Welcome to Pakistan's inaugural publicly available autonomous driving dataset, f
   <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/Screenshot%20from%202023-10-05%2013-12-24.png?raw=true" alt="test1">
 </div>
 <figcaption align="center">A scenic view of Pakistan Road</figcaption>
+
+<div align="center">
+  <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/BeFunky-collage.jpg?raw=true" alt="test2">
+</div>
+<figcaption align="center">Diversity in PDrive20k Data</figcaption>
