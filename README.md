@@ -46,12 +46,12 @@ By showcasing Pakistan's roadways in all their diversity, this dataset empowers 
 
 <div align="center">
   <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/13.gif?raw=true" alt="test3">
-  <figcaption align="center">PDrive20K Demo</figcaption>
+  <p align="center"><em>PDrive20K Demo</em></p>
 </div>
 
 <div align="center">
   <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/11.gif?raw=true" alt="test4">
-  <figcaption align="center">PDrive20K Demo</figcaption>
+  <p align="center"><em>PDrive20K Demo</em></p>
 </div>
 
 
