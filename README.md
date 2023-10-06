@@ -60,8 +60,8 @@ By showcasing Pakistan's roadways in all their diversity, this dataset empowers 
 Contact us at:
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     
-<a href="https://visionrdai.com/" style="text-decoration:none;">
-    <img src="94953978.png" width="30%" alt="" />
+  <a href="https://visionrdai.com/" style="text-decoration:none;">
+    <img src="https://github.com/visionrd-ai/PDrive20K/blob/main/gitdata/94953978.png?raw=true" width="30%" alt="" />
   </a>
     
   <a href="https://github.com/visionrd-ai" style="text-decoration:none;">
